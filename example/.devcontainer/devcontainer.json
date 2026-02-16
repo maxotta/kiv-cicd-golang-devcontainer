@@ -1,0 +1,14 @@
+{
+    "image": "ghcr.io/maxotta/kiv-cicd-golang-devcontainer:latest",
+    "appPort": 8080,
+    "customizations": {
+      "vscode": {
+        "extensions": [
+            "ms-azuretools.vscode-docker",
+            "esbenp.prettier-vscode",
+            "mohsen1.prettify-json",
+            "golang.go"]
+      }
+    }
+  }
+  
